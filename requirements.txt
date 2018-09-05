@@ -1,0 +1,5 @@
+###### Requirements without Version Specifiers ######
+librosa
+eyeD3
+#pysoundfile
+pydub
